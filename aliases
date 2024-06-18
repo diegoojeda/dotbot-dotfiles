@@ -1,0 +1,5 @@
+alias gst="git status"
+alias gcam="git commit -am"
+alias gp="git push"
+alias vpn="sudo openfortivpn"
+alias docker-compose="docker compose"
